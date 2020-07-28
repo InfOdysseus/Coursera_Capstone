@@ -1,0 +1,1 @@
+The data can be analyzed by what kind of business each store is, where it is located, and how popular it is to people. If you use the k-mean method to vectorize the analyzed data, you can easily make a map.

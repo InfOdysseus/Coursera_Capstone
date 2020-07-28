@@ -1,0 +1,4 @@
+When we travel to another country, we usually carry a map of the area. Various restaurants and shops are marked on the map.
+There are many details such as pictures and special things. However, if you look closely at these maps, similar types are marked with the same color or mark, making it easy to see at a glance. 
+When adding a new store to maps that have already been created, you can add them compared to the existing ones, but if you create maps in a new area now, how do you make those marks? 
+As there is a lot of data, it will be difficult to analyze one by one. At this time, Data Analysing can be used.
